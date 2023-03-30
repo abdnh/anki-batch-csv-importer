@@ -1,0 +1,7 @@
+{
+    "name": "Batch CSV Importer",
+    "package": "batch_csv_importer",
+    "homepage": "https://github.com/abdnh/anki-batch-csv-importer",
+    "ankiweb_id": "1",
+    "min_point_version": 54
+}
