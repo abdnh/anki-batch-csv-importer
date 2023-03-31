@@ -5,13 +5,17 @@ You can access the add-on from _Tools > Batch Import CSV_.
 
 Only works on 2.1.54+ as it builds on the new CSV import screen.
 
+## Download
+
+You can download the add-on from AnkiWeb: [998454778](https://ankiweb.net/shared/info/998454778)
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
 
 ## Support & feature requests
 
-Please post any questions, bug reports, or feature requests in the [support page](https://forums.ankiweb.net/t/anki-batch-csv-importer) or the [issue tracker](https://github.com/abdnh/anki-batch-csv-importer/issues).
+Please post any questions, bug reports, or feature requests in the [support page](https://forums.ankiweb.net/c/add-ons/11) or the [issue tracker](https://github.com/abdnh/anki-batch-csv-importer/issues).
 
 If you want priority support for your feature/help request, I'm available for hire.
 You can get in touch from the aforementioned pages, via [email](mailto:abdo@abdnh.net) or on [Fiverr](https://www.fiverr.com/abd_nh).
